@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compass Gamma Pilot Reports</title>
+    <style>
+        :root {
+            --primary-bg: #f5f7fa;
+            --card-bg: #ffffff;
+            --text-color: #2d3748;
+            --text-muted: #718096;
+            --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+            --shadow-md: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            --radius: 12px;
+            --transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--primary-bg);
+            color: var(--text-color);
+            margin: 0;
+            padding: 40px 20px;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin: 0 0 10px 0;
+            color: #1a202c;
+            letter-spacing: -0.025em;
+        }
+
+        p.subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 32px;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-sm);
+            text-decoration: none;
+            color: inherit;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+            transition: var(--transition);
+            border: 1px solid rgba(0, 0, 0, 0.05);
+            height: 100%;
+        }
+
+        .card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .card-image-wrapper {
+            height: 200px;
+            padding: 32px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #ffffff;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .card-image-wrapper img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover .card-image-wrapper img {
+            transform: scale(1.05);
+        }
+
+        .card-content {
+            padding: 24px;
+            flex-grow: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .org-name {
+            font-size: 1.125rem;
+            font-weight: 600;
+            text-align: center;
+            color: #2d3748;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <h1>Compass Gamma Pilot Reports</h1>
+            <p class="subtitle">Select an organization to view their full report</p>
+        </header>
+
+        <div class="grid">
+            <a href="./Report_Aaron_Family_JCC/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Aaron_Family_JCC/assets/aaron-family-jcc-logo.png" alt="Aaron Family JCC Logo"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Aaron Family JCC</div>
+                </div>
+            </a>
+
+            <a href="./Report_Calderwood_Lodge/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Calderwood_Lodge/assets/calderwood-lodge-logo.png" alt="Calderwood Lodge Logo"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Calderwood Lodge</div>
+                </div>
+            </a>
+
+            <a href="./Report_Camp_Deeny_Riback/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Camp_Deeny_Riback/assets/camp-deeny-riback-logo.png"
+                        alt="Camp Deeny Riback Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Camp Deeny Riback</div>
+                </div>
+            </a>
+
+            <a href="./Report_Friedberg_JCC/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Friedberg_JCC/assets/friedberg-jcc-logo.png" alt="Friedberg JCC Logo"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Friedberg JCC</div>
+                </div>
+            </a>
+
+            <a href="./Report_Illini_Hillel/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Illini_Hillel/assets/illini-hillel-logo.png" alt="Illini Hillel Logo"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Illini Hillel</div>
+                </div>
+            </a>
+
+            <a href="./Report_Jewish_Community_of_Belgrade/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Jewish_Community_of_Belgrade/assets/jewish-community-of-belgrade-logo.png"
+                        alt="Jewish Community of Belgrade Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Jewish Community of Belgrade</div>
+                </div>
+            </a>
+
+            <a href="./Report_Lander-Grinspoon_Academy/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Lander-Grinspoon_Academy/assets/lander-grinspoon-academy-logo.png"
+                        alt="Lander-Grinspoon Academy Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Lander-Grinspoon Academy</div>
+                </div>
+            </a>
+
+            <a href="./Report_Norman_E_Alexander_Center_for_Jewish_Life_the_Y/index.html" class="card"
+                target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Norman_E_Alexander_Center_for_Jewish_Life_the_Y/assets/norman-e-alexander-center-for-jewish-life-the-y-logo.png"
+                        alt="Norman E. Alexander Center for Jewish Life @ the Y Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Norman E. Alexander Center for Jewish Life @ the Y</div>
+                </div>
+            </a>
+
+            <a href="./Report_Ramah_Darom/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Ramah_Darom/assets/ramah-darom-logo.png" alt="Ramah Darom Logo"
+                        loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Ramah Darom</div>
+                </div>
+            </a>
+
+            <a href="./Report_Temple_B_nai_Torah/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Temple_B_nai_Torah/assets/temple-b-nai-torah-logo.png"
+                        alt="Temple B'nai Torah Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Temple B'nai Torah</div>
+                </div>
+            </a>
+
+            <a href="./Report_Temple_Shir_Tikva/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Temple_Shir_Tikva/assets/temple-shir-tikva-logo.png"
+                        alt="Temple Shir Tikva Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Temple Shir Tikva</div>
+                </div>
+            </a>
+
+            <a href="./Report_Valley_of_the_Sun_J/index.html" class="card" target="_blank">
+                <div class="card-image-wrapper">
+                    <img src="./Report_Valley_of_the_Sun_J/assets/valley-of-the-sun-j-logo.png"
+                        alt="Valley of the Sun J Logo" loading="lazy">
+                </div>
+                <div class="card-content">
+                    <div class="org-name">Valley of the Sun J</div>
+                </div>
+            </a>
+        </div>
+    </div>
+</body>
+
+</html>
