@@ -1,0 +1,1367 @@
+{
+  "organization_name": "Camp Deeny Riback",
+  "logos": [
+    {
+      "src": "assets/m2-logo.png",
+      "alt": "M\u00b2 Logo"
+    },
+    {
+      "src": "assets/logo.png",
+      "alt": "Logo"
+    },
+    {
+      "src": "assets/camp-deeny-riback-logo.png",
+      "alt": "Camp Deeny Riback Logo"
+    }
+  ],
+  "title": "Camp Deeny Riback's 18\u00d718 Compass",
+  "subtitle": "Strategic Insights Report for Camp Deeny Riback",
+  "meta_items": [
+    {
+      "label": "Organization",
+      "value": "Camp Deeny Riback"
+    },
+    {
+      "label": "Framework",
+      "value": "18 Dimensions of Jewish Life"
+    },
+    {
+      "label": "Survey Period",
+      "value": "March 2026 - April 2026"
+    }
+  ],
+  "scroll_indicator": {
+    "enabled": true,
+    "scroll_target": "key-findings"
+  },
+  "findings": [
+    {
+      "number": 1,
+      "title": "Alignment",
+      "text": "Camp Deeny Riback demonstrates exceptional alignment on several priorities \u2014including Texts/Torah and Arts & Culture, reflecting a distinctive organizational identity. Comparatively, stakeholders are misaligned on Justice/Tzedakah and Contemporary Jewry."
+    },
+    {
+      "number": 2,
+      "title": "Strategic Growth Opportunities",
+      "text": "The organization's programmatic offerings appear well-aligned with community interests."
+    },
+    {
+      "number": 3,
+      "title": "Dimension-level Insights",
+      "text": "Detailed indicator analysis reveals actionable data to guide programmatic direction; including ways to engage around Israel and its People, Judaism's Relevance and Rituals/Holidays."
+    },
+    {
+      "number": 4,
+      "title": "Internal consensus",
+      "text": "Board and staff show strong alignment on 7 dimensions, moderate consensus on 9 dimensions, and limited agreement on only 2 dimensions. This robust consensus profile\u2014with 89% of dimensions showing moderate or strong agreement\u2014indicates exceptional organizational clarity and shared vision."
+    }
+  ],
+  "nav_items": [
+    {
+      "href": "slides1_2.html",
+      "number": "1",
+      "title": "Response Rates & Demographics",
+      "description": "Review participation rates across different stakeholder groups and examine demographic composition of community respondents.",
+      "slides": "Slides 1-2"
+    },
+    {
+      "href": "slides3_7.html",
+      "number": "2",
+      "title": "Organizational & Community Alignment",
+      "description": "Examine alignment and misalignment between organizational priorities, program offerings, and community needs across all 18 dimensions.",
+      "slides": "Slides 3-7"
+    },
+    {
+      "href": "slides8_9.html",
+      "number": "3",
+      "title": "Dimensions in Depth",
+      "description": "Explore detailed indicator-level analysis for each dimension, revealing specific opportunities where community priorities exceed current offerings.",
+      "slides": "Slides 8-9"
+    },
+    {
+      "href": "slides10.html",
+      "number": "4",
+      "title": "Internal Consensus Analysis",
+      "description": "Understand alignment and divergence within the organization through rWG consensus measures across board and staff priorities.",
+      "slides": "Slide 10"
+    }
+  ],
+  "questions": [
+    {
+      "number": "Question 1",
+      "text": "How can we leverage our unique strengths to create innovative programming?",
+      "prompt": "Consider: What partnerships or resources would support expansion in these dimensions?"
+    },
+    {
+      "number": "Question 2",
+      "text": "In what ways can we expand our programming in areas where both community and organizational interest exceed current offerings?",
+      "prompt": "Consider: How might these growth areas connect to our existing strengths?"
+    },
+    {
+      "number": "Question 3",
+      "text": "How can we create more opportunities for nuanced discussions about complex topics, given the strong community interest in these areas?",
+      "prompt": "Consider: Safe spaces for dialogue, educational programming that explores multiple viewpoints."
+    },
+    {
+      "number": "Question 4",
+      "text": "Given our internal consensus profile, how can we use organizational clarity to make confident strategic decisions?",
+      "prompt": "Consider: How does our focus differentiate us in the community? How can we articulate this identity?"
+    },
+    {
+      "number": "Question 5",
+      "text": "In dimensions where we have less internal consensus, how should we approach decision-making and resource allocation?",
+      "prompt": "Consider: Do these areas require more dialogue to build consensus? Should we pilot smaller initiatives?"
+    }
+  ],
+  "footer": {
+    "compass_link": {
+      "url": "https://ieje.org/18x18/educational-dimensions-of-jewish-life/18x18-compass/",
+      "text": "Learn more about the 18\u00d718 Compass"
+    },
+    "locations": "M\u00b2 New York \u2022 M\u00b2 Jerusalem \u2022 M\u00b2 Chicago",
+    "contact_label": "CONTACT US",
+    "contact_info": "1-866-462-4353 \u2022 contact@ieje.org"
+  },
+  "responseRates": {
+    "total": 33,
+    "community": {
+      "count": 21,
+      "total_member_count": 500
+    },
+    "staff": {
+      "count": 4,
+      "total_member_count": 200
+    },
+    "board": {
+      "count": 8,
+      "total_member_count": 30
+    }
+  },
+  "demographics": {
+    "programParticipation": {
+      "labels": [
+        "Junior Village (3 yrs - Entering 1st Grade)",
+        "Middle Camp (2nd - 5th Grade)",
+        "Upper Camp ( 6th - 10th Grade)"
+      ],
+      "values": [
+        47.6,
+        61.9,
+        23.8
+      ],
+      "title": "Activity Participation (CM-only"
+    },
+    "howLongWithOrg": {
+      "labels": [
+        "1 to 4 years",
+        "5 to 10 years",
+        "More than 10 years"
+      ],
+      "values": [
+        37.5,
+        25.0,
+        37.5
+      ],
+      "title": "How Long with Organization",
+      "groups": [
+        {
+          "title": "Board Members",
+          "labels": [
+            "1 to 4 years",
+            "5 to 10 years",
+            "More than 10 years"
+          ],
+          "values": [
+            37.5,
+            25.0,
+            37.5
+          ]
+        },
+        {
+          "title": "Staff Members",
+          "labels": [
+            "1 to 4 years",
+            "More than 10 years"
+          ],
+          "values": [
+            75.0,
+            25.0
+          ]
+        }
+      ]
+    },
+    "age": {
+      "labels": [
+        "25\u201334 years",
+        "35\u201344 years",
+        "45\u201354 years",
+        "55\u201364 years",
+        "65\u201374 years"
+      ],
+      "values": [
+        4.8,
+        66.7,
+        19.0,
+        4.8,
+        4.8
+      ]
+    },
+    "gender": {
+      "labels": [
+        "Man",
+        "Other",
+        "Woman"
+      ],
+      "values": [
+        23.8,
+        4.8,
+        71.4
+      ]
+    },
+    "viewpoint": {
+      "labels": [
+        "The experience/growth of your child/children",
+        "The experience/growth of your family as a unit"
+      ],
+      "values": [
+        71.4,
+        28.6
+      ]
+    }
+  },
+  "dimensions": [
+    {
+      "id": 1,
+      "name": "The Jewish People in its Diversity",
+      "shortName": "Jewish People/Diversity",
+      "mission": {
+        "mean": 4.25
+      },
+      "programs": {
+        "mean": 3.833
+      },
+      "community": {
+        "mean": 3.476,
+        "rank": 9,
+        "score": 3.48
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jewish Friendship",
+      "shortName": "Jewish Friendship",
+      "mission": {
+        "mean": 4.583
+      },
+      "programs": {
+        "mean": 4.417
+      },
+      "community": {
+        "mean": 3.905,
+        "rank": 2,
+        "score": 3.9
+      }
+    },
+    {
+      "id": 3,
+      "name": "Jewish Role Models",
+      "shortName": "Role Models",
+      "mission": {
+        "mean": 3.667
+      },
+      "programs": {
+        "mean": 3.5
+      },
+      "community": {
+        "mean": 3.714,
+        "rank": 3,
+        "score": 3.71
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jewish Community",
+      "shortName": "Jewish Community",
+      "mission": {
+        "mean": 4.583
+      },
+      "programs": {
+        "mean": 4.167
+      },
+      "community": {
+        "mean": 4.19,
+        "rank": 1,
+        "score": 4.19
+      }
+    },
+    {
+      "id": 5,
+      "name": "Jewish History, Memory, and Tradition",
+      "shortName": "History/Tradition",
+      "mission": {
+        "mean": 4.083
+      },
+      "programs": {
+        "mean": 3.727
+      },
+      "community": {
+        "mean": 3.714,
+        "rank": 4,
+        "score": 3.71
+      }
+    },
+    {
+      "id": 6,
+      "name": "Judaism's Relevance to Life's Questions",
+      "shortName": "Judaism's Relevance",
+      "mission": {
+        "mean": 3.25
+      },
+      "programs": {
+        "mean": 3.0
+      },
+      "community": {
+        "mean": 3.238,
+        "rank": 13,
+        "score": 3.24
+      }
+    },
+    {
+      "id": 7,
+      "name": "God, Spirituality, and Prayer",
+      "shortName": "Spirituality/Prayer",
+      "mission": {
+        "mean": 2.75
+      },
+      "programs": {
+        "mean": 2.5
+      },
+      "community": {
+        "mean": 2.286,
+        "rank": 17,
+        "score": 2.29
+      }
+    },
+    {
+      "id": 8,
+      "name": "Rituals and Holidays",
+      "shortName": "Rituals/Holidays",
+      "mission": {
+        "mean": 3.917
+      },
+      "programs": {
+        "mean": 3.667
+      },
+      "community": {
+        "mean": 3.619,
+        "rank": 6,
+        "score": 3.62
+      }
+    },
+    {
+      "id": 9,
+      "name": "Justice and Tzedakah",
+      "shortName": "Justice/Tzedakah",
+      "mission": {
+        "mean": 4.5
+      },
+      "programs": {
+        "mean": 3.833
+      },
+      "community": {
+        "mean": 3.524,
+        "rank": 8,
+        "score": 3.52
+      }
+    },
+    {
+      "id": 10,
+      "name": "Mitzvot and Customs",
+      "shortName": "Mitzvot/Customs",
+      "mission": {
+        "mean": 3.667
+      },
+      "programs": {
+        "mean": 3.5
+      },
+      "community": {
+        "mean": 3.25,
+        "rank": 12,
+        "score": 3.25
+      }
+    },
+    {
+      "id": 11,
+      "name": "Holiness of Nature and the Environment",
+      "shortName": "Nature/Environment",
+      "mission": {
+        "mean": 3.583
+      },
+      "programs": {
+        "mean": 3.273
+      },
+      "community": {
+        "mean": 3.238,
+        "rank": 14,
+        "score": 3.24
+      }
+    },
+    {
+      "id": 12,
+      "name": "Expression of God's Creation",
+      "shortName": "God's Creation",
+      "mission": {
+        "mean": 3.833
+      },
+      "programs": {
+        "mean": 3.333
+      },
+      "community": {
+        "mean": 2.905,
+        "rank": 16,
+        "score": 2.9
+      }
+    },
+    {
+      "id": 13,
+      "name": "Jewish Texts, Torah, and Core Narratives",
+      "shortName": "Texts/Torah",
+      "mission": {
+        "mean": 2.364
+      },
+      "programs": {
+        "mean": 2.333
+      },
+      "community": {
+        "mean": 2.238,
+        "rank": 18,
+        "score": 2.24
+      }
+    },
+    {
+      "id": 14,
+      "name": "Israel and its People",
+      "shortName": "Israel and its People",
+      "mission": {
+        "mean": 4.5
+      },
+      "programs": {
+        "mean": 3.833
+      },
+      "community": {
+        "mean": 3.667,
+        "rank": 5,
+        "score": 3.67
+      }
+    },
+    {
+      "id": 15,
+      "name": "Hebrew and Jewish Terminology",
+      "shortName": "Hebrew/Terminology",
+      "mission": {
+        "mean": 3.083
+      },
+      "programs": {
+        "mean": 3.167
+      },
+      "community": {
+        "mean": 3.429,
+        "rank": 10,
+        "score": 3.43
+      }
+    },
+    {
+      "id": 16,
+      "name": "Jewish Culinary Traditions",
+      "shortName": "Culinary Traditions",
+      "mission": {
+        "mean": 3.5
+      },
+      "programs": {
+        "mean": 2.917
+      },
+      "community": {
+        "mean": 3.571,
+        "rank": 7,
+        "score": 3.57
+      }
+    },
+    {
+      "id": 17,
+      "name": "Jewish Arts and Culture",
+      "shortName": "Arts & Culture",
+      "mission": {
+        "mean": 3.5
+      },
+      "programs": {
+        "mean": 3.417
+      },
+      "community": {
+        "mean": 3.381,
+        "rank": 11,
+        "score": 3.38
+      }
+    },
+    {
+      "id": 18,
+      "name": "Issues Facing Contemporary Jewry",
+      "shortName": "Contemporary Jewry",
+      "mission": {
+        "mean": 4.0
+      },
+      "programs": {
+        "mean": 3.25
+      },
+      "community": {
+        "mean": 3.048,
+        "rank": 15,
+        "score": 3.05
+      }
+    }
+  ],
+  "indicators": [
+    {
+      "dimension": "The Jewish People in its Diversity",
+      "indicator": "Learning about the different ways Jews believe, practice, and belong",
+      "community": 3.1,
+      "offerings": 2.83,
+      "gap": 0.27,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "The Jewish People in its Diversity",
+      "indicator": "Learning about the history and culture of diverse Jewish communities",
+      "community": 3.0,
+      "offerings": 2.58,
+      "gap": 0.42,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "The Jewish People in its Diversity",
+      "indicator": "Connecting with Jews globally either in-person or virtually",
+      "community": 3.33,
+      "offerings": 3.83,
+      "gap": -0.5,
+      "pctHigh": 52.4
+    },
+    {
+      "dimension": "The Jewish People in its Diversity",
+      "indicator": "Meeting and interacting with Jews from diverse backgrounds",
+      "community": 3.52,
+      "offerings": 3.92,
+      "gap": -0.4,
+      "pctHigh": 57.1
+    },
+    {
+      "dimension": "Jewish Friendship",
+      "indicator": "Belonging to a small group that meets regularly (class, team, club, chavurah)",
+      "community": 3.29,
+      "offerings": 3.33,
+      "gap": -0.04,
+      "pctHigh": 52.4
+    },
+    {
+      "dimension": "Jewish Friendship",
+      "indicator": "Having someone to talk to regularly",
+      "community": 3.57,
+      "offerings": 4.5,
+      "gap": -0.93,
+      "pctHigh": 57.1
+    },
+    {
+      "dimension": "Jewish Friendship",
+      "indicator": "Joining activities designed to help people meet each other",
+      "community": 3.67,
+      "offerings": 4.5,
+      "gap": -0.83,
+      "pctHigh": 61.9
+    },
+    {
+      "dimension": "Jewish Friendship",
+      "indicator": "Spending time with other Jews who share similar values and interests",
+      "community": 3.62,
+      "offerings": 4.58,
+      "gap": -0.96,
+      "pctHigh": 61.9
+    },
+    {
+      "dimension": "Jewish Role Models",
+      "indicator": "Spending time with a Jewish mentor",
+      "community": 3.1,
+      "offerings": 3.42,
+      "gap": -0.32,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "Jewish Role Models",
+      "indicator": "Learning about inspiring Jewish people from the past and today",
+      "community": 3.24,
+      "offerings": 2.5,
+      "gap": 0.74,
+      "pctHigh": 42.9
+    },
+    {
+      "dimension": "Jewish Role Models",
+      "indicator": "Meeting inspiring Jewish leaders or community members",
+      "community": 3.1,
+      "offerings": 3.08,
+      "gap": 0.02,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "Jewish Role Models",
+      "indicator": "Becoming a leader or mentor for others",
+      "community": 3.29,
+      "offerings": 3.42,
+      "gap": -0.13,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Jewish Community",
+      "indicator": "Taking on meaningful volunteer or leadership roles.",
+      "community": 3.48,
+      "offerings": 3.5,
+      "gap": -0.02,
+      "pctHigh": 61.9
+    },
+    {
+      "dimension": "Jewish Community",
+      "indicator": "Taking responsibility for the community's wellbeing (e.g., taking care of shared spaces, welcoming others, etc.)",
+      "community": 3.57,
+      "offerings": 3.75,
+      "gap": -0.18,
+      "pctHigh": 66.7
+    },
+    {
+      "dimension": "Jewish Community",
+      "indicator": "Regularly participating in community events and activities",
+      "community": 3.57,
+      "offerings": 3.67,
+      "gap": -0.1,
+      "pctHigh": 57.1
+    },
+    {
+      "dimension": "Jewish Community",
+      "indicator": "Supporting one another in times of need",
+      "community": 4.0,
+      "offerings": 4.25,
+      "gap": -0.25,
+      "pctHigh": 81.0
+    },
+    {
+      "dimension": "Jewish History, Memory, and Tradition",
+      "indicator": "Preserving and sharing Jewish history (like family stories)",
+      "community": 3.29,
+      "offerings": 2.5,
+      "gap": 0.79,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Jewish History, Memory, and Tradition",
+      "indicator": "Joining events that commemorate important moments in Jewish history (e.g., Holocaust remembrance, Israel-related days)",
+      "community": 3.38,
+      "offerings": 3.58,
+      "gap": -0.2,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Jewish History, Memory, and Tradition",
+      "indicator": "Visiting sites of Jewish history",
+      "community": 2.81,
+      "offerings": 2.0,
+      "gap": 0.81,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Jewish History, Memory, and Tradition",
+      "indicator": "Applying lessons from Jewish history to current events",
+      "community": 3.14,
+      "offerings": 2.5,
+      "gap": 0.64,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Judaism's Relevance to Life's Questions",
+      "indicator": "Discussing personal challenges with guidance from educators, clergy, or mentors",
+      "community": 3.29,
+      "offerings": 3.09,
+      "gap": 0.2,
+      "pctHigh": 52.4
+    },
+    {
+      "dimension": "Judaism's Relevance to Life's Questions",
+      "indicator": "Exploring Jewish perspectives on current issues",
+      "community": 2.86,
+      "offerings": 2.42,
+      "gap": 0.44,
+      "pctHigh": 23.8
+    },
+    {
+      "dimension": "Judaism's Relevance to Life's Questions",
+      "indicator": "Learning how Jewish sources address important universal human issues",
+      "community": 3.14,
+      "offerings": 2.17,
+      "gap": 0.97,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "God, Spirituality, and Prayer",
+      "indicator": "Learning to lead prayer for the community",
+      "community": 2.05,
+      "offerings": 2.33,
+      "gap": -0.28,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "God, Spirituality, and Prayer",
+      "indicator": "Learning diverse Jewish ideas about God and spirituality",
+      "community": 2.43,
+      "offerings": 2.08,
+      "gap": 0.35,
+      "pctHigh": 23.8
+    },
+    {
+      "dimension": "God, Spirituality, and Prayer",
+      "indicator": "Exploring a personal relationship with God or spirituality",
+      "community": 2.05,
+      "offerings": 1.83,
+      "gap": 0.22,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "God, Spirituality, and Prayer",
+      "indicator": "Regularly taking part in communal prayer",
+      "community": 2.19,
+      "offerings": 2.42,
+      "gap": -0.23,
+      "pctHigh": 23.8
+    },
+    {
+      "dimension": "Rituals and Holidays",
+      "indicator": "Learning the history and meaning of Jewish holidays",
+      "community": 3.19,
+      "offerings": 2.75,
+      "gap": 0.44,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Rituals and Holidays",
+      "indicator": "Celebrating holidays together with the community",
+      "community": 3.71,
+      "offerings": 3.36,
+      "gap": 0.35,
+      "pctHigh": 66.7
+    },
+    {
+      "dimension": "Rituals and Holidays",
+      "indicator": "Learning to lead Jewish holiday rituals",
+      "community": 2.76,
+      "offerings": 2.58,
+      "gap": 0.18,
+      "pctHigh": 23.8
+    },
+    {
+      "dimension": "Rituals and Holidays",
+      "indicator": "Trying out new ways to make rituals relevant today",
+      "community": 2.86,
+      "offerings": 2.5,
+      "gap": 0.36,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Rituals and Holidays",
+      "indicator": "Marking life's milestones (births, marriage, loss) with Jewish rituals",
+      "community": 3.38,
+      "offerings": 2.42,
+      "gap": 0.96,
+      "pctHigh": 57.1
+    },
+    {
+      "dimension": "Justice and Tzedakah",
+      "indicator": "Directly helping people at risk or in need",
+      "community": 3.43,
+      "offerings": 3.0,
+      "gap": 0.43,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Justice and Tzedakah",
+      "indicator": "Learning about Jewish teachings on justice and responsibility",
+      "community": 2.95,
+      "offerings": 2.5,
+      "gap": 0.45,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Justice and Tzedakah",
+      "indicator": "Partnering with other groups to work for social justice",
+      "community": 2.9,
+      "offerings": 2.92,
+      "gap": -0.02,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "Justice and Tzedakah",
+      "indicator": "Advocating for Jews at risk or in need",
+      "community": 3.24,
+      "offerings": 2.42,
+      "gap": 0.82,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Justice and Tzedakah",
+      "indicator": "Directly helping Jews at risk or in need",
+      "community": 3.24,
+      "offerings": 2.67,
+      "gap": 0.57,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Mitzvot and Customs",
+      "indicator": "Learning about Jewish law (halakha)",
+      "community": 2.62,
+      "offerings": 2.25,
+      "gap": 0.37,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Mitzvot and Customs",
+      "indicator": "Exploring how Jewish practices can bring meaning to daily life",
+      "community": 2.67,
+      "offerings": 2.75,
+      "gap": -0.08,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Mitzvot and Customs",
+      "indicator": "Learning the specific \"how-to\" of different mitzvot (commandments)",
+      "community": 2.71,
+      "offerings": 2.92,
+      "gap": -0.21,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Holiness of Nature and the Environment",
+      "indicator": "Taking action to care for the environment in ways guided by Jewish values",
+      "community": 2.95,
+      "offerings": 3.33,
+      "gap": -0.38,
+      "pctHigh": 42.9
+    },
+    {
+      "dimension": "Holiness of Nature and the Environment",
+      "indicator": "Learning Jewish teachings about caring for nature and the environment",
+      "community": 2.9,
+      "offerings": 3.0,
+      "gap": -0.1,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "Holiness of Nature and the Environment",
+      "indicator": "Experiencing awe and spiritual connection through nature",
+      "community": 3.24,
+      "offerings": 3.27,
+      "gap": -0.03,
+      "pctHigh": 52.4
+    },
+    {
+      "dimension": "Expression of God's Creation",
+      "indicator": "Engaging with other faiths or ethnic communities around a shared commitment to human dignity",
+      "community": 3.0,
+      "offerings": 2.25,
+      "gap": 0.75,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Expression of God's Creation",
+      "indicator": "Learning about the Jewish concept of being created \"in God's image\"",
+      "community": 2.29,
+      "offerings": 2.33,
+      "gap": -0.04,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "Expression of God's Creation",
+      "indicator": "Taking responsibility to stand up against bullying and exclusion",
+      "community": 4.33,
+      "offerings": 3.83,
+      "gap": 0.5,
+      "pctHigh": 85.7
+    },
+    {
+      "dimension": "Expression of God's Creation",
+      "indicator": "Navigating the connection between one's Jewish and other personal identities",
+      "community": 3.29,
+      "offerings": 3.0,
+      "gap": 0.29,
+      "pctHigh": 42.9
+    },
+    {
+      "dimension": "Jewish Texts, Torah, and Core Narratives",
+      "indicator": "Learning stories and lessons from the Torah and other texts",
+      "community": 2.24,
+      "offerings": 2.17,
+      "gap": 0.07,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "Jewish Texts, Torah, and Core Narratives",
+      "indicator": "Studying Jewish texts with others",
+      "community": 1.86,
+      "offerings": 1.67,
+      "gap": 0.19,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "Jewish Texts, Torah, and Core Narratives",
+      "indicator": "Building skills to read and understand Jewish texts",
+      "community": 2.0,
+      "offerings": 1.67,
+      "gap": 0.33,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "Jewish Texts, Torah, and Core Narratives",
+      "indicator": "Creating original interpretations or creative responses to texts",
+      "community": 2.0,
+      "offerings": 1.83,
+      "gap": 0.17,
+      "pctHigh": 14.3
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Advocating in support of the State of Israel",
+      "community": 3.33,
+      "offerings": 3.5,
+      "gap": -0.17,
+      "pctHigh": 47.6
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Enjoying Israeli culture, music, and society",
+      "community": 3.71,
+      "offerings": 4.33,
+      "gap": -0.62,
+      "pctHigh": 61.9
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Learning the history and politics of Israel",
+      "community": 2.9,
+      "offerings": 2.42,
+      "gap": 0.48,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Understanding the perspectives of Israelis, Palestinians, and Israeli-Arabs",
+      "community": 3.2,
+      "offerings": 2.17,
+      "gap": 1.03,
+      "pctHigh": 50.0
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Having a space to discuss Israel's complexities in a nuanced and respectful way",
+      "community": 3.14,
+      "offerings": 2.33,
+      "gap": 0.81,
+      "pctHigh": 42.9
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Building relationships or friendships with Israelis",
+      "community": 3.67,
+      "offerings": 4.42,
+      "gap": -0.75,
+      "pctHigh": 57.1
+    },
+    {
+      "dimension": "Israel and its People",
+      "indicator": "Engaging with the religious and historical significance of the Land of Israel",
+      "community": 3.29,
+      "offerings": 3.08,
+      "gap": 0.21,
+      "pctHigh": 42.9
+    },
+    {
+      "dimension": "Hebrew and Jewish Terminology",
+      "indicator": "Understanding the meaning of common Hebrew and Jewish terms",
+      "community": 3.52,
+      "offerings": 3.42,
+      "gap": 0.1,
+      "pctHigh": 61.9
+    },
+    {
+      "dimension": "Hebrew and Jewish Terminology",
+      "indicator": "Gaining Hebrew skills to participate in Jewish prayer",
+      "community": 2.86,
+      "offerings": 2.33,
+      "gap": 0.53,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Hebrew and Jewish Terminology",
+      "indicator": "Enjoying Hebrew literature, movies, and culture",
+      "community": 2.67,
+      "offerings": 2.25,
+      "gap": 0.42,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Hebrew and Jewish Terminology",
+      "indicator": "Learning Jewish languages (e.g., Yiddish, Ladino) to connect with Jewish culture and history",
+      "community": 2.1,
+      "offerings": 1.83,
+      "gap": 0.27,
+      "pctHigh": 19.0
+    },
+    {
+      "dimension": "Hebrew and Jewish Terminology",
+      "indicator": "Learning conversational Hebrew to connect with Israelis and other Hebrew speakers",
+      "community": 2.76,
+      "offerings": 1.92,
+      "gap": 0.84,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Jewish Culinary Traditions",
+      "indicator": "Learning the history and cultural meaning of Jewish foods",
+      "community": 3.0,
+      "offerings": 2.75,
+      "gap": 0.25,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Jewish Culinary Traditions",
+      "indicator": "Participating in communal meals that celebrate Jewish food",
+      "community": 3.48,
+      "offerings": 3.25,
+      "gap": 0.23,
+      "pctHigh": 52.4
+    },
+    {
+      "dimension": "Jewish Culinary Traditions",
+      "indicator": "Learning to make Jewish dishes",
+      "community": 2.95,
+      "offerings": 3.0,
+      "gap": -0.05,
+      "pctHigh": 38.1
+    },
+    {
+      "dimension": "Jewish Culinary Traditions",
+      "indicator": "Learning about Jewish dietary laws (kashrut) and/or connecting to ethical food practices",
+      "community": 2.67,
+      "offerings": 3.0,
+      "gap": -0.33,
+      "pctHigh": 19.0
+    },
+    {
+      "dimension": "Jewish Arts and Culture",
+      "indicator": "Exploring how Jewish art and culture shape Jewish life and identity",
+      "community": 2.76,
+      "offerings": 2.5,
+      "gap": 0.26,
+      "pctHigh": 23.8
+    },
+    {
+      "dimension": "Jewish Arts and Culture",
+      "indicator": "Experiencing Jewish music, visual arts, theater, film, and literature",
+      "community": 2.81,
+      "offerings": 3.33,
+      "gap": -0.52,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Jewish Arts and Culture",
+      "indicator": "Creating Jewish art that expresses identity, values, or connection to tradition",
+      "community": 2.9,
+      "offerings": 3.0,
+      "gap": -0.1,
+      "pctHigh": 28.6
+    },
+    {
+      "dimension": "Issues Facing Contemporary Jewry",
+      "indicator": "Participating in initiatives that address Jewish communal challenges",
+      "community": 2.86,
+      "offerings": 2.36,
+      "gap": 0.5,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Issues Facing Contemporary Jewry",
+      "indicator": "Learning about the social and political trends impacting Jews today",
+      "community": 2.9,
+      "offerings": 2.08,
+      "gap": 0.82,
+      "pctHigh": 33.3
+    },
+    {
+      "dimension": "Issues Facing Contemporary Jewry",
+      "indicator": "Partnering with other groups to respond to current challenges in modern society",
+      "community": 2.81,
+      "offerings": 2.33,
+      "gap": 0.48,
+      "pctHigh": 23.8
+    },
+    {
+      "dimension": "Issues Facing Contemporary Jewry",
+      "indicator": "Developing skills to be an effective advocate on current issues in modern society",
+      "community": 3.0,
+      "offerings": 2.42,
+      "gap": 0.58,
+      "pctHigh": 38.1
+    }
+  ],
+  "consensus": [
+    {
+      "name": "Jewish Friendship",
+      "rwg": 0.867424242424242,
+      "consensus": "High (\u2265.70)",
+      "low": 0,
+      "medium": 0,
+      "high": 100.0
+    },
+    {
+      "name": "Jewish Community",
+      "rwg": 0.867424242424242,
+      "consensus": "High (\u2265.70)",
+      "low": 0,
+      "medium": 0,
+      "high": 100.0
+    },
+    {
+      "name": "Israel and its People",
+      "rwg": 0.863636363636364,
+      "consensus": "High (\u2265.70)",
+      "low": 0,
+      "medium": 0,
+      "high": 100.0
+    },
+    {
+      "name": "Justice and Tzedakah",
+      "rwg": 0.772727272727273,
+      "consensus": "High (\u2265.70)",
+      "low": 0,
+      "medium": 8.3,
+      "high": 91.7
+    },
+    {
+      "name": "Jewish Culinary Traditions",
+      "rwg": 0.772727272727273,
+      "consensus": "High (\u2265.70)",
+      "low": 0,
+      "medium": 58.3,
+      "high": 41.7
+    },
+    {
+      "name": "The Jewish People in its Diversity",
+      "rwg": 0.715909090909091,
+      "consensus": "High (\u2265.70)",
+      "low": 0,
+      "medium": 16.7,
+      "high": 83.3
+    },
+    {
+      "name": "Judaism's Relevance to Life's Questions",
+      "rwg": 0.715909090909091,
+      "consensus": "High (\u2265.70)",
+      "low": 16.7,
+      "medium": 41.7,
+      "high": 41.7
+    },
+    {
+      "name": "Jewish Role Models",
+      "rwg": 0.696969696969697,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 8.3,
+      "medium": 25.0,
+      "high": 66.7
+    },
+    {
+      "name": "Jewish History, Memory, and Tradition",
+      "rwg": 0.68560606060606,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 0,
+      "medium": 25.0,
+      "high": 75.0
+    },
+    {
+      "name": "Hebrew and Jewish Terminology",
+      "rwg": 0.68560606060606,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 25.0,
+      "medium": 41.7,
+      "high": 33.3
+    },
+    {
+      "name": "God, Spirituality, and Prayer",
+      "rwg": 0.625,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 50.0,
+      "medium": 25.0,
+      "high": 25.0
+    },
+    {
+      "name": "Mitzvot and Customs",
+      "rwg": 0.606060606060606,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 16.7,
+      "medium": 8.3,
+      "high": 75.0
+    },
+    {
+      "name": "Rituals and Holidays",
+      "rwg": 0.59469696969697,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 8.3,
+      "medium": 16.7,
+      "high": 75.0
+    },
+    {
+      "name": "Jewish Texts, Torah, and Core Narratives",
+      "rwg": 0.572727272727273,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 54.5,
+      "medium": 36.4,
+      "high": 9.1
+    },
+    {
+      "name": "Holiness of Nature and the Environment",
+      "rwg": 0.503787878787879,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 16.7,
+      "medium": 25.0,
+      "high": 58.3
+    },
+    {
+      "name": "Jewish Arts and Culture",
+      "rwg": 0.5,
+      "consensus": "Medium (.50\u2013.69)",
+      "low": 16.7,
+      "medium": 33.3,
+      "high": 50.0
+    },
+    {
+      "name": "Issues Facing Contemporary Jewry",
+      "rwg": 0.4,
+      "consensus": "Low (<.50)",
+      "low": 18.2,
+      "medium": 0,
+      "high": 81.8
+    },
+    {
+      "name": "Expression of God's Creation",
+      "rwg": 0.287878787878788,
+      "consensus": "Low (<.50)",
+      "low": 8.3,
+      "medium": 25.0,
+      "high": 66.7
+    }
+  ],
+  "alignmentMatrix": {
+    "programThreshold": 4,
+    "communityThreshold": 4,
+    "quadrants": {
+      "continue": [
+        4
+      ],
+      "explore": [],
+      "reflect": [
+        2
+      ],
+      "review": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  },
+  "alignmentInsights": {
+    "topAligned": [
+      {
+        "name": "Jewish Texts, Torah, and Core Narratives",
+        "shortName": "Texts/Torah"
+      },
+      {
+        "name": "Jewish Arts and Culture",
+        "shortName": "Arts & Culture"
+      }
+    ],
+    "underProgrammed": [
+      {
+        "id": 18,
+        "name": "Issues Facing Contemporary Jewry",
+        "shortName": "Contemporary Jewry",
+        "gap": 0.75
+      },
+      {
+        "id": 9,
+        "name": "Justice and Tzedakah",
+        "shortName": "Justice/Tzedakah",
+        "gap": 0.67
+      },
+      {
+        "id": 14,
+        "name": "Israel and its People",
+        "shortName": "Israel and its People",
+        "gap": 0.67
+      },
+      {
+        "id": 16,
+        "name": "Jewish Culinary Traditions",
+        "shortName": "Culinary Traditions",
+        "gap": 0.58
+      }
+    ],
+    "communityAligned": [
+      {
+        "name": "Judaism's Relevance to Life's Questions",
+        "shortName": "Judaism's Relevance"
+      },
+      {
+        "name": "Jewish Role Models",
+        "shortName": "Role Models"
+      }
+    ],
+    "communityMisaligned": [
+      {
+        "id": 9,
+        "name": "Justice and Tzedakah",
+        "shortName": "Justice/Tzedakah",
+        "gap": 0.98
+      },
+      {
+        "id": 18,
+        "name": "Issues Facing Contemporary Jewry",
+        "shortName": "Contemporary Jewry",
+        "gap": 0.95
+      },
+      {
+        "id": 12,
+        "name": "Expression of God's Creation",
+        "shortName": "God's Creation",
+        "gap": 0.93
+      },
+      {
+        "id": 14,
+        "name": "Israel and its People",
+        "shortName": "Israel and its People",
+        "gap": 0.83
+      }
+    ]
+  }
+}
