@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         max: 100,
                         title: {
                             display: true,
-                            text: 'Percentage of Board and Staff Members',
+                            text: 'Percentage of Staff Members',
                             font: { size: 14, weight: '600', family: 'Manrope' },
                             color: '#4B5563'
                         },

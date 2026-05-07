@@ -53,7 +53,7 @@
     {
       "number": 4,
       "title": "Internal consensus",
-      "text": "Board and staff show strong alignment on 11 dimensions, moderate consensus on 5 dimensions, and limited agreement on only 2 dimensions. This robust consensus profile\u2014with 89% of dimensions showing moderate or strong agreement\u2014indicates exceptional organizational clarity and shared vision."
+      "text": "Staff members show strong alignment on 11 dimensions, moderate consensus on 5 dimensions, and limited agreement on only 2 dimensions. This robust consensus profile\u2014with 89% of dimensions showing moderate or strong agreement\u2014indicates exceptional organizational clarity and shared vision."
     }
   ],
   "nav_items": [
@@ -82,7 +82,7 @@
       "href": "slides10.html",
       "number": "4",
       "title": "Internal Consensus Analysis",
-      "description": "Understand alignment and divergence within the organization through rWG consensus measures across board and staff priorities.",
+      "description": "Understand alignment and divergence within the organization through rWG consensus measures across staff priorities.",
       "slides": "Slide 10"
     }
   ],
@@ -132,7 +132,7 @@
       "count": 4,
       "total_member_count": 15
     },
-    "board": {
+    "leadership": {
       "count": 0,
       "total_member_count": 0
     }

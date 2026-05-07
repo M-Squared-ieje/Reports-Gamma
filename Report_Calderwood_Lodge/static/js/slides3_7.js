@@ -154,7 +154,7 @@ document.addEventListener('DOMContentLoaded', function () {
         data: {
             labels: missionData.map(d => d.name),
             datasets: [{
-                label: 'Board/Staff Importance',
+                label: 'Organizational Importance',
                 data: missionData.map(d => d.mean),
                 backgroundColor: missionData.map(d => getColor(d.mean)),
                 borderColor: missionData.map(d => getBorderColor(d.mean)),
@@ -205,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     },
                     title: {
                         display: true,
-                        text: 'Board/Staff importance ratings (Scale 1-5)',
+                        text: 'Organizational importance ratings (Scale 1-5)',
                         font: { size: 14, weight: '600', family: 'Manrope' },
                         color: '#4B5563',
                         padding: { top: 10 }
@@ -482,7 +482,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     },
                     title: {
                         display: true,
-                        text: 'Board/Staff importance ratings (Scale 1-5)',
+                        text: 'Organizational importance ratings (Scale 1-5)',
                         font: { size: 14, weight: '600', family: 'Manrope' },
                         color: '#4B5563',
                         padding: { top: 10 }
